@@ -44,5 +44,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 
 ---
-
-Feel free to customize the sections and add more details specific to your project!
